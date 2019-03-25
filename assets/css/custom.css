@@ -1,0 +1,68 @@
+body {
+  background: url(../img/pattern3.png) center center repeat;
+}
+
+.bg-dark {
+  background-color: #253a49 !important;
+  color: #fff;
+}
+.bg-light {
+  background-color: #395364 !important;
+}
+
+/*------- NavBar -------*/
+.logo {
+  max-height: 40px;
+}
+.navbar-nav {
+  float: right;
+  margin-left: auto !important;
+}
+
+/*------- Slider -------*/
+.w-100 {
+    width: 100%!important;
+    max-height: 280px;
+}
+
+/*------- ServerInfo -------*/
+.server {
+    max-height: 30px;
+    line-height: 30px;
+    color: white;
+    text-align: center;
+}
+
+/*------- Main -------*/
+.main {
+  height: auto;
+  padding: 10px;
+}
+.titlebg {
+  background-color: #253a49;
+  max-height: 30px;
+  line-height: 30px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+}
+.textbg {
+  background-color: rgba(37, 58, 73, 0.7);
+  height: auto;
+  color: #fff;
+  padding: 10px;
+}
+.dlicons {
+  max-width: 100px;
+}
+.srwbanner {
+  max-width: 480px;
+}
+
+/*------- Footer -------*/
+.footer {
+  min-height: 80px;
+  color: #fff;
+  padding: 10px;
+  border-radius: 0 0 10px 10px;
+}
